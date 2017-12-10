@@ -1,5 +1,5 @@
 # hotel-booking-chatbot-slack
-Hotel booking chatbot with slack api
+Hotel booking chatbot with dialogflow using slack api 
 
 ## Team Members:
 
